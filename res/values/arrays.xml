@@ -1,0 +1,8 @@
+<resources>
+    <string-array name="levels">
+        <item>lvl 1</item>
+        <item>lvl 2</item>
+        <item>lvl 3</item>
+    </string-array>
+    
+</resources>
